@@ -3,7 +3,8 @@
 ## порождающие шаблоны
  1. [Builder / Строитель](https://github.com/bad4iz/design_patterns_in_php/tree/master/creational/builder.php)   
  2. [Singleton / Одиночка](https://github.com/bad4iz/design_patterns_in_php/tree/master/creational/singleton.php)
-  
+ 3. [Factory Method / Фабричный метод](https://github.com/bad4iz/design_patterns_in_php/tree/master/creational/factoryMethod.php)    
+
   
 ## [Структурные шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural)
 
