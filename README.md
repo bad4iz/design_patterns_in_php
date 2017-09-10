@@ -7,12 +7,12 @@
   [Abstract Factory / Абстрактная фабрика]()  
   []()   
 ## [Структурные шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural)
-  [Adapter / Адаптер]()  
-  [Decorator / Декоратор](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural/decorator.php)  
+  1. [Adapter / Адаптер](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural/adapter.php)  
+  2. [Decorator / Декоратор](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural/decorator.php)  
     
 ## [Поведенческие шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral)
-  [Observer / Наблюдатель]()  
-  [Strategy / Стратегия](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral/strategy.php)    
+  1. [Observer / Наблюдатель]()  
+  2. [Strategy / Стратегия](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral/strategy.php)    
    
 ## [Другие](https://github.com/bad4iz/design_patterns_in_php/tree/master/also)
 
