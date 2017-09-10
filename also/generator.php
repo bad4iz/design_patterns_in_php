@@ -9,3 +9,20 @@ function numbers() {
 }
 
 foreach (numbers() as $number);
+
+/**
+ * чтение данных из файла с помощью генератора
+ **/
+function getLines($file) {
+  $file = fopen($file,'r');
+  if (!$file) {
+    throw new Exception();
+  }
+  while ($line = fgets($file)){
+    yield $line;
+    echo "$line";
+  }
+  fclose($file);
+}
+
+foreach (getLines('data.txt') as $getLine);
