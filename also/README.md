@@ -8,3 +8,4 @@
 
 ## Другие
   1. [iteratorAggregate](https://github.com/bad4iz/design_patterns_in_php/tree/master/also/iteratorAggregate.php)
+  2. [Generator](https://github.com/bad4iz/design_patterns_in_php/tree/master/also/generator.php)
