@@ -8,7 +8,7 @@
   []()   
 ## [Структурные шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural)
   [Adapter / Адаптер]()  
-  [Decorator / Декоратор]()  
+  [Decorator / Декоратор](https://github.com/bad4iz/design_patterns_in_php/tree/master/structural/decorator.php)  
     
 ## [Поведенческие шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral)
   [Observer / Наблюдатель]()  
