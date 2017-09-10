@@ -20,8 +20,19 @@ class Mult implements Strategy{
 
 class Context {
   private $strategy;
-  function __construct(Strategy $strategy) {
-    $this->strategy = $strategy;
+  function __construct(Strategy $operation) {
+      switch ($operation) {
+          case '+':
+              $this->strategy = new Add();
+            break;
+          case '-':
+              $this->strategy = new Sub();
+              break;
+          case '*':
+              $this->strategy = new Mult();
+              break;
+          default: throw new Exception('Неправильный тип');
+      }
   }
 
   function execute($n1, $n2){
@@ -29,5 +40,5 @@ class Context {
   }
 }
 
-$context = new Context(new Add);
+$context = new Context("+");
 echo $context->execute(5, 9)."\n";
