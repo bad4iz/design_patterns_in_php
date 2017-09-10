@@ -7,3 +7,4 @@
 ## [Поведенческие шаблоны](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral)
 
 ## Другие
+  1. [iteratorAggregate](https://github.com/bad4iz/design_patterns_in_php/tree/master/also/iteratorAggregate.php)

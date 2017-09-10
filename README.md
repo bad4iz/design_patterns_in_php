@@ -15,4 +15,4 @@
   2. [Strategy / Стратегия](https://github.com/bad4iz/design_patterns_in_php/tree/master/behavioral/strategy.php)    
    
 ## [Другие](https://github.com/bad4iz/design_patterns_in_php/tree/master/also)
-
+  1. [iteratorAggregate](https://github.com/bad4iz/design_patterns_in_php/tree/master/also/iteratorAggregate.php)
